@@ -1,0 +1,6 @@
+Sample 1: result rendered and feature checks passed
+Sample 2: result rendered and feature checks passed
+Sample 3: result rendered and feature checks passed
+Sample 4: result rendered and feature checks passed
+Sample 5: result rendered and feature checks passed
+Opt-in local SQLite save verified with synthetic input
